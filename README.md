@@ -8,7 +8,6 @@ python ytscrape.py
 
 give it a username of any youtube channel (not ID number)
 
-enjoy! 
 
 
 
